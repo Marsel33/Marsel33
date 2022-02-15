@@ -9,7 +9,7 @@
 Контакты для связи: 
 * mobile: +7 927 083 60 66
 * [Telegram: Marsel_Ib](https://t.me/Marsel_Ib)
-* [Email: marsel.ibatullin1993@gmail.com](marsel.ibatullin1993@gmail.com)
+* [Email: marsel.ibatullin1993@gmail.com](mailto:marsel.ibatullin1993@gmail.com)
 
 <!--
 **Marsel33/Marsel33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
