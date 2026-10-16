@@ -2,7 +2,7 @@
 
 ### Меня зовут Марсель, я JavaScript Developer.
 
-#### Стек технологий, с которыми я работаю : HTML, CSS , JavaScript, React, Redux, Node JS, Express, PostreSQL, Sequelize, Git, WebSockets.
+#### Стек технологий, с которыми я работаю : HTML, CSS , JavaScript, React, Redux, Node JS, Tailwind, Express, PostreSQL, Git.
 
 #### В настоящий момент ищу позицию в командном проекте.
 
